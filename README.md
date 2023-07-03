@@ -14,7 +14,7 @@ Simplist way to use:
 
   (Data below is fake generated demo data)
 
-  ![image](https://github.com/jasonmhead/json_reviewer/assets/6140151/fbe18bb0-6fce-41c1-bd84-6856d6061e19)
+![image](https://github.com/jasonmhead/json_reviewer/assets/6140151/8e9d5bc2-82c6-4f57-9024-979a0d9c9ac4)
 
-![image](https://github.com/jasonmhead/json_reviewer/assets/6140151/76eda4ae-1657-4b90-8729-2da582f31c57)
+![image](https://github.com/jasonmhead/json_reviewer/assets/6140151/59cab11b-225e-4a99-ad5a-407bd83c6385)
 
